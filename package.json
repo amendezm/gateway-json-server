@@ -1,0 +1,21 @@
+{
+  "name": "gateway-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch ./db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amendezm/gateway-json-server.git"
+  },
+  "author": "amendezm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amendezm/gateway-json-server/issues"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
